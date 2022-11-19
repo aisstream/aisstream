@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to the official Github account of aisstream.io :ship:
 
-<!--
-**aisstream/aisstream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, [aisstream.io](https://aisstream.io) is a free api to stream global AIS data via websockets. With our AIS data stream you are able to track vessel position, identity, port calls and much more. 
 
-Here are some ideas to get you started:
+### Our Repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Issue Tracking (Where users can raise issues with the service)
+- OpenAPI 3.0 definition and libraries for all AIS message types. 
+- Example applications
+
+### Our Website Resources
+
+- [aisstream.io](https://aisstream.io) 
+- [documentation](https://aisstream.io/documentation) :clipboard:
+
+
+
+
