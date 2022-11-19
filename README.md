@@ -4,9 +4,10 @@ Hello! [aisstream.io](https://aisstream.io) is a free api to stream global AIS d
 
 ### Our Repos
 
-- Issue Tracking (Where users can raise issues with the service)
-- OpenAPI 3.0 definition and libraries for all AIS message types. 
-- Example applications
+- [Issue Tracking (Where users can raise issues with the service)](https://github.com/aisstream/issues)
+- [OpenAPI 3.0 definition and libraries for all AIS message types](https://github.com/aisstream/ais-message-models)
+- [Example applications](https://github.com/aisstream/example)
+
 
 ### Our Website Resources
 
