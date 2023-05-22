@@ -2,6 +2,8 @@
 
 Hello! [aisstream.io](https://aisstream.io) is a free api to stream global AIS data via websockets. With our AIS data stream you are able to track vessel position, identity, port calls and much more. 
 
+If you decide to use aisstream in a project, app, or company please open a issue [here](https://github.com/aisstream/Projects-Using-aisstream.io). We would love to hear what aisstream.io is currently being used for! 
+
 ### Our Repos
 
 - [Issue Tracking (Where users can raise issues with the service)](https://github.com/aisstream/issues)
