@@ -6,7 +6,7 @@ If you decide to use aisstream in a project, app, or company please open a issue
 
 ### Whats New!
 
-1. **Subscription MMSI filters**. Users can now only recieve messages from the vessels they choose by specifying a list of MMSIs in the `FilterShipMMSI` subscription property when setting their subscription. 
+1. **Subscription MMSI filters**. Users can now only recieve messages from the vessels they choose by specifying a list of MMSIs in the `FiltersShipMMSI` subscription property when setting their subscription. 
 
 1. **Subscription message type filters**. Users can now only recieve messages of the types they choose by specifying a list of aisstream.io message types in the `FilterMessageTypes` subscription property when setting their subscription. 
 
