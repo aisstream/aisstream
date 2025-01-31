@@ -6,7 +6,7 @@ If you decide to use aisstream in a project, app, or company please open a issue
 
 ---
 
-## !
+## ! PLANNED maintenance
 aisstream.io has planned maintenance down time on febuary 1st for roughly a hour!
 --
 
