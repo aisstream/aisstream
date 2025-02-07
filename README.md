@@ -4,12 +4,6 @@ Hello! [aisstream.io](https://aisstream.io) is a free api to stream global AIS d
 
 If you decide to use aisstream in a project, app, or company please open a issue [here](https://github.com/aisstream/Projects-Using-aisstream.io). We would love to hear what aisstream.io is currently being used for! 
 
-
-# ! PLANNED maintenance
-
-aisstream.io has planned maintenance down time on febuary 1st for roughly a hour!
---
-
 ### Whats New!
 
 1. **Subscription MMSI filters**. Users can now only recieve messages from the vessels they choose by specifying a list of MMSIs in the `FiltersShipMMSI` subscription property when setting their subscription. 
